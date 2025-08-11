@@ -50,7 +50,8 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Java [J2EE]
 - JDBC
 - Servlet
-- Oracle ( SQL )
+- MySQL 
+
 
 
 
